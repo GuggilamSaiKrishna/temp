@@ -1,0 +1,9 @@
+input[type="button"] {
+    background-color: lightblue;
+    padding: 10px 20px;
+}
+
+input[type="button"]:hover {
+    background-color: red;
+    color: white;
+}
